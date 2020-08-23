@@ -10,3 +10,5 @@ A social media site demo called as "Socialite" for users.
 
 ###### Technologies used
 HTML, CSS(Scss), JavaScript, nodeJS, ExpressJS, MongoDB, redis-server, Ajax, passport-jwt etc.
+
+<h3>Relevant PR's are always welcomed!! </h3>
